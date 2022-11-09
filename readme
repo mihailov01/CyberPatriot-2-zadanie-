@@ -1,0 +1,7 @@
+dbname=mybase1
+___admin___
+login: admin
+password: admin
+___user___
+login: andrey
+password: 111
